@@ -1,6 +1,13 @@
 /* CSS Reset */
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+body {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  font-family: "Lexend Deca", sans-serif;
 }
